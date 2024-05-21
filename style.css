@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F1F4FF;
+}
+
+.card_wrapper {
+    width: 1150px;
+    margin: auto;
+    padding-top: 55px;
+}
+
+.card_wrapper .card {
+    width: 49.5%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+    background-color: white;
+    height: 640px;
+    }
+
+.card_wrapper .card:nth-child(1) {
+    background: url(./b4e371619042d1e80918d09904e90f7d.gif);
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card_wrapper .card:nth-child(1) span {
+    width: Hug 178px;
+    height: Hug 27px;
+    padding: 5px 15px 5px 15px;
+    opacity: 0.8px;
+    color: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.card_wrapper .card input {
+    display: block;
+    width: 100%;
+    padding: 25px 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+
+.card_wrapper .card:nth-child(1) button {
+    padding: 20px;
+    border-radius: 0 0 20px 20px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #4DC490;
+    left: 0;
+}
+
+.card_wrapper .card:nth-child(2) button {
+    padding: 15px 150px;
+    border-radius: 0 0 20px 20px;
+    position: absolute;
+    background-color: #655AF2;
+    margin: auto;
+    bottom: 150px;
+    left: 850px;
+} 
+    
+.card_wrapper .card:nth-child(2) p {
+    bottom: 100px;
+    position: absolute;
+    left: 825px;
+}
+
+.card_wrapper .card:nth-child(2) h1 {
+    font-weight: 600;
+    font-size: 32px;
+    padding: 0px 30px;
+}
+
+.card_wrapper .card:nth-child(2) a {
+    color: red;
+}
+
+.card_wrapper .card:nth-child(1) h1 {
+    top: 175px;
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 36px;
+    font-weight: 700;
+    left: 125px;
+}
+
+.card_wrapper .card:nth-child(1) p {
+    position: absolute;
+    color: white;
+    top: 325px;
+    font-weight: 400;
+    font-size: 16px;
+    left: 125px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
